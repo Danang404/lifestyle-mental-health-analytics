@@ -13,9 +13,6 @@
   <a href="#-fitur-utama">Fitur Utama</a> •
   <a href="#-teknologi">Teknologi</a> •
   <a href="#-hasil-analisis">Hasil Analisis</a> •
-  <a href="#-cara-menjalankan">Cara Menjalankan</a>
-</p>
-
 </div>
 
 ---
@@ -64,7 +61,7 @@ Berdasarkan eksperimen, berikut adalah perbandingan performa model:
 
 | Model | Akurasi | F1-Score | Keterangan |
 | :--- | :--- | :--- | :--- |
-| **Logistic Regression** | ~89.9% | Low | Cenderung bias ke kelas mayoritas. |
-| **Random Forest** | **~90.0%** | **High** | **Lebih stabil menangani data imbalance.** |
+| **Logistic Regression** | ~89.7% | Low | Cenderung bias ke kelas mayoritas. |
+| **Random Forest** | **~89.6%** | **High** | **Lebih stabil menangani data imbalance.** |
 
 > **Insight:** Faktor *Tingkat Stres (Stress Level)* dan *Durasi Tidur (Sleep Duration)* ditemukan sebagai prediktor terkuat terhadap risiko depresi mahasiswa.
